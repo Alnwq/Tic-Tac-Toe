@@ -1,0 +1,2 @@
+# This project uses only standard Python libraries
+# Tkinter is included in Python's standard library, so no external libraries were required
